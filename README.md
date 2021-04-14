@@ -1,5 +1,7 @@
 "Theory is when you know something, but it doesn't work. Practice is when something works, but you don't know why. Programmers combine theory and practice: Nothing works and they don't know why." - anonymous
 
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=codeiain"/>
+
 <!--
 **codeiain/codeiain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
